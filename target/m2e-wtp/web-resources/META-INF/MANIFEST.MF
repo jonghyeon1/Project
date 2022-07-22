@@ -1,9 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
 Built-By: goott04
-=======
-Built-By: mooni
->>>>>>> 9afa1679119ed9f5eaa164d84f01784f24bd77ed
 Build-Jdk: 11.0.13
 Created-By: Maven Integration for Eclipse
 
